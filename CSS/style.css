@@ -1,0 +1,140 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color: #fef5ca;
+}
+
+/* Heading */
+h1{
+    font-family: 'Arial', sans-serif;
+    color: #000000;
+    font-weight: bold;
+}
+
+p {
+    padding: 10px;
+    margin: 0;
+    font-size: 2vw;
+}
+
+.container{
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+section{
+    border: 1px solid black;
+    background-color: #00ff99;
+    width: 100%;
+    height: auto;
+    font-family: 'Helvetica';
+    color: #000000;
+    position: relative;
+    overflow: auto;
+    text-align: center;
+}
+
+#chicken{
+    border: 2px solid red;
+    text-align: center;
+    width: 30%;
+    font-family: 'Georgia', sans-serif;
+    font-weight: bold;
+    font-size: 125%;
+    padding: 5px;
+    background-color: #333333; 
+    margin-left: 40%;
+    color: floralwhite;
+}
+
+#beef{
+    border: 2px solid red;
+    text-align: center;
+    width: 30%;
+    font-family: 'Georgia', sans-serif;
+    font-weight: bold;
+    font-size: 125%;
+    padding: 5px;
+    background-color: #333333; 
+    margin-left: 40%;
+    color: floralwhite;
+}
+
+#sushi{
+    border: 2px solid red;
+    text-align: center;
+    width: 30%;
+    font-family: 'Georgia', sans-serif;
+    font-weight: bold;
+    font-size: 125%;
+    padding: 5px;
+    background-color: #333333; 
+    margin-left: 40%;
+    color: floralwhite;
+}
+
+#chicken-div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#beef-div{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+#sushi-div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-brand{
+    font-size: 2em;
+    border: 0 0 10px 10px;
+    color: #ffffff;
+}
+
+#header-nav{
+    border: 0;
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid #add8e6;
+}
+
+.navbar-header button.navbar-toggle{
+    clear: both;
+    margin-top: -30px;
+}
+
+.nav-header{
+    background-color: #ffffff;
+}
+
+.nav-brand{
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+#nav-list{
+    color: white;
+}
+
+hr{
+    border-color: black;
+}
+
+.item{
+    color: white;
+    font-size: 1.2em;
+}
+
+
